@@ -2,7 +2,7 @@
 
 This repository contains scripts for building a Site Theme, ensuring compatibility with the requirements of AEM Site Templates. The recommended way of integrating the Theme Builder is to install it as an npm dependency of the Site Template Theme. This way `aem-site-theme-builder` commands can be used in NPM scripts. Example of such integration can be found in [Standard Site Template](https://github.com/adobe/aem-site-template-standard/blob/main/theme/package.json).
 
-## Installation
+## Installation 
 
 ```
 cd <your-site-theme>
